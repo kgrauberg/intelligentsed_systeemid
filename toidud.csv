@@ -1,0 +1,71 @@
+Toidu nimetus,Valmistamise keerukus (1-5),Valmistamise aeg minutites,Vajab kuumtöötlemist,Portsjoneid,Vegan,Taimetoit,Gluteenivaba,Laktoosivaba,Loomaliha,Sealiha,Kanaliha,Kala/mereannid
+Juustusai,1,5,Ei,2,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Värske salat,1,20,Ei,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Kaerahelbepuder,2,10,Jah,2,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Pelmeenid hapukoorega,2,15,Jah,3,Ei,Ei,Ei,Ei,Ei,Jah,Ei,Ei
+Makaronid hakklihaga,2,20,Jah,6,Ei,Ei,Ei,Jah,Jah,Ei,Ei,Ei
+Singipitsa,3,20,Jah,8,Ei,Ei,Ei,Ei,Ei,Jah,Ei,Ei
+Kartulisalat,3,120,Jah,16,Ei,Ei,Jah,Ei,Ei,Jah,Ei,Ei
+Frikadellisupp,3,30,Jah,6,Ei,Ei,Jah,Jah,Ei,Jah,Ei,Ei
+Kana riisiga,4,60,Jah,6,Ei,Ei,Jah,Jah,Ei,Ei,Jah,Ei
+Veiseburger,4,40,Jah,1,Ei,Ei,Ei,Ei,Jah,Ei,Ei,Ei
+Ahjulõhe kartulitega,5,45,Jah,4,Ei,Ei,Jah,Jah,Ei,Ei,Ei,Jah
+Porgandipüreesupp,2,25,Jah,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Banaanileib,5,40,Jah,8,Jah,Jah,Ei,Jah,Ei,Ei,Ei,Ei
+Banaaniküpsised kookosega,4,30,Jah,8,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Caponata,3,30,Jah,4,Jah,Jah,Ei,Jah,Ei,Ei,Ei,Ei
+Lõhepasta,3,15,Jah,4,Ei,Ei,Ei,Ei,Ei,Ei,Ei,Jah
+Spagetikõrvitsa pasta,5,40,Jah,2,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Broilerilasanje,4,40,Jah,8,Ei,Ei,Ei,Ei,Ei,Ei,Jah,Ei
+Piparkoogibraunid,4,60,Jah,15,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Õuna-puruvorm,3,40,Jah,5,Jah,Jah,Ei,Jah,Ei,Ei,Ei,Ei
+Lillkapsa-kookosesupp,2,45,Jah,2,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Vahemere pirukas,4,55,Jah,8,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Kartuli-juustupirukad,4,35,Jah,12,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Seljanka,3,20,Jah,4,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Pikkpoiss,5,60,Jah,8,Ei,Ei,Ei,Ei,Jah,Ei,Ei,Ei
+Makroonid,5,60,Jah,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Risotto,3,25,Jah,2,Ei,Ei,Jah,Ei,Jah,Ei,Ei,Ei
+Muna-heerigasalat,4,30,Jah,4,Ei,Ei,Jah,Ei,Ei,Ei,Ei,Jah
+Kartuli-rukolasalat,2,25,Jah,5,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Vegelasanje,4,40,Jah,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Kartulivorm,3,130,Jah,6,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Kanasalat,2,30,Jah,4,Ei,Ei,Jah,Jah,Ei,Ei,Jah,Ei
+Borš,3,30,Jah,4,Ei,Ei,Jah,Ei,Jah,Ei,Ei,Ei
+Läätsesupp,3,20,Jah,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Aedviljakarri,2,20,Jah,3,Ei,Jah,Ei,Jah,Ei,Ei,Ei,Ei
+Baklažaanivorm,3,50,Jah,6,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Lambapada,4,160,Jah,6,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Krevetisupp,3,15,Jah,4,Ei,Ei,Jah,Jah,Ei,Ei,Ei,Jah
+Sibulasupp,4,40,Jah,4,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Tikka masala kanaga,3,15,Jah,4,Ei,Ei,Ei,Jah,Ei,Ei,Jah,Ei
+Fajita,5,15,Jah,4,Ei,Ei,Ei,Ei,Ei,Ei,Jah,Ei
+Tom Kha supp,4,20,Jah,4,Ei,Ei,Jah,Jah,Ei,Ei,Ei,Jah
+Pasta Bolognese,3,20,Jah,4,Ei,Ei,Ei,Ei,Jah,Ei,Ei,Ei
+Pannkoogid,2,15,Jah,4,Ei,Ei,Ei,Ei,Ei,Ei,Ei,Ei
+Omlett köögiviljadega,2,10,Jah,4,Ei,Jah,Ei,Ei,Ei,Ei,Ei,Ei
+Soe oasalat,3,20,Jah,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Arbuusipitsa kohupiimaga,2,5,Ei,8,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Plov,3,40,Jah,8,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Köögiviljahautis,3,35,Jah,8,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Burrito,4,20,Jah,8,Ei,Ei,Ei,Ei,Jah,Ei,Ei,Ei
+Loomalihahautis,3,40,Jah,8,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Tandoori kana,4,30,Jah,4,Ei,Ei,Jah,Ei,Ei,Ei,Jah,Ei
+Kana-bataadisalat,4,30,Jah,4,Ei,Ei,Jah,Ei,Ei,Ei,Jah,Ei
+Karjusevorm,3,20,Jah,4,Ei,Ei,Ei,Jah,Jah,Ei,Ei,Ei
+Pitsakana,4,25,Jah,4,Ei,Ei,Jah,Ei,Ei,Ei,Jah,Ei
+Hernesupp,3,20,Jah,4,Ei,Ei,Jah,Ei,Jah,Ei,Ei,Ei
+Caesari salat,4,25,Jah,6,Ei,Ei,Ei,Ei,Ei,Ei,Jah,Ei
+Kreeka salat,3,15,Ei,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Waldorfi salat,3,15,Ei,2,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Ingveriporgandisalat,4,20,Jah,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Paprika-fenkolisalat,3,20,Ei,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Läätsesalat,4,30,Jah,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Wakame-nuudlisalat,5,20,Jah,6,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Kaalika-puuviljasalat,3,15,Ei,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Muna-sibulasalat,3,20,Jah,4,Ei,Jah,Jah,Ei,Ei,Ei,Ei,Ei
+Avokaadosalat,4,20,Ei,4,Jah,Jah,Jah,Jah,Ei,Ei,Ei,Ei
+Hapukapsasupp,3,40,Jah,4,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Kalkunikiusatus,4,60,Jah,4,Ei,Ei,Jah,Ei,Jah,Ei,Ei,Ei
+Mesine pardipraad,5,150,Jah,4,Ei,Ei,Jah,Jah,Jah,Ei,Ei,Ei
+Peekoniporgandid,5,35,Jah,2,Ei,Ei,Jah,Jah,Ei,Jah,Ei,Ei
